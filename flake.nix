@@ -11,8 +11,8 @@
       let
         pkgs = nixpkgs.legacyPackages.${system};
 
-        rocq = pkgs.rocqPackages.rocq-core;
-        stdlib = pkgs.rocqPackages.stdlib;
+        rocq = pkgs.rocqPackages_9_1.rocq-core;
+        stdlib = pkgs.rocqPackages_9_1.stdlib;
 
       in {
         packages = {

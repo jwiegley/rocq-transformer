@@ -20,7 +20,7 @@ If this code compiles, then:
 ## Building
 
 ```bash
-nix develop   # Enter environment with Rocq 9.0
+nix develop   # Enter environment with Rocq 9.1
 make          # Compile all 13 modules
 ```
 

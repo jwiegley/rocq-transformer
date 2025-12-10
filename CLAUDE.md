@@ -5,7 +5,7 @@ Formal specification of the Transformer architecture with compile-time dimension
 ## Build
 
 ```bash
-nix develop                    # Rocq 9.0
+nix develop                    # Rocq 9.1
 make                           # Build all modules
 make Transformer/Tensor.vo     # Build specific module
 ```
