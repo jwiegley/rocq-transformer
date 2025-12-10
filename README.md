@@ -1,4 +1,4 @@
-# Transformer
+# Transformers, formalized in Rocq
 
 A machine-checked formal specification of the Transformer architecture in Rocq.
 
